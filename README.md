@@ -13,7 +13,9 @@ The project provided here is a small React-Native app, bootstrapped with [Expo](
 
 Your task is to go over this project and evaluate quality by exploring the app, the code, and integrate tests. You are free to justify the types of tests you are integrating, and how they improve quality assurance for the product, but please note that we are hoping to see the following:
 
-- End-to-end testing
+- End-to-end Mobile Automation - Android/iOS App
+
+NOTE - This is not a web app , its react-native android/ios app.
 
 It is recommended for you to write down how you approached the problem, why you chose specific technologies, and more generally how you are solving the concern of software quality. Please also report any bug/issue you find in the app and if possible, the code.
 
@@ -27,7 +29,7 @@ To run the app:
 - Make sure to have [expo-cli](https://docs.expo.io/workflow/expo-cli/) installed
 - Start the app: `yarn start`
 
-This will open a web page in your browser from which you can run the app on an emulator or on your own device with the Expo client. More information can be found in Expo documentation.
+This will open a web page in your browser from which you need run the app on an emulator or on your own device with the Expo client by scanning the QR code in it. More information can be found in Expo documentation.
 
 --- 
 
