@@ -25,6 +25,8 @@ We are also interested in any comments or thoughts on how you would expand your 
 
 To run the app:
 
+- Install node 14.18.1 `nvm install 14.18.1`
+- Install yarn `nvm install yarn`
 - Install node dependencies: `yarn`
 - Make sure to have [expo-cli](https://docs.expo.io/workflow/expo-cli/) installed
 - Start the app: `yarn start`
